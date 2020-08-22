@@ -18,4 +18,3 @@ bot.on('start', () => {
         params
     );
 });
-// This does not work for now.
