@@ -1,0 +1,2 @@
+export const SLACK_OAUTH_TOKEN = 'xoxb-572692838501-1309945735542-3BxbwL6IBEK9ZMGoWWKUrWTS'
+export const BOT_TEST_CHANNEL = '#bot_test'
