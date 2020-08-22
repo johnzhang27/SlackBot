@@ -27,6 +27,7 @@ rtm.on('slack_event', async (eventType, event) => {
         }
     }
 })
+// Add more function to the bot in the future.
 function hello(channelId,userId){
     sendMessage(channelId, `Hello! <@${userId}>`)
 }
