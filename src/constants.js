@@ -1,2 +1,3 @@
-export const SLACK_OAUTH_TOKEN = 'xoxb-572692838501-1309945735542-3BxbwL6IBEK9ZMGoWWKUrWTS'
+export const SLACK_OAUTH_TOKEN =
 export const BOT_TEST_CHANNEL = '#bot_test'
+export const ES_CHANNEL = '#electrical_software'
