@@ -36,7 +36,7 @@ function hello(channelId,userId){
     sendMessage(channelId, `Hello! <@${userId}>`)
 }
 function list(channelId){
-    sendMessage(channelId, '1. Parrot\n2. Command List\n3. I want to rest')
+    sendMessage(channelId, '1. Parrot\n2. Command List\n3. I want to rest\n4. meme')
 }
 function rest(channelId,userId){
     sendMessage(channelId, `Go to work! <@${userId}> you CODE MONKEY!`)
